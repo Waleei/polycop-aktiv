@@ -459,7 +459,7 @@ def _home_screen_text() -> str:
         "🚀 Lightning Copy Trade With 0-Block(0s) Latency on Polymarket\n\n"
         "Your Polymarket Balance: $0\n\n"
         "📥 Import wallet with at least 100 USDC / USDT (Start with 1k so you can match returns) on Polygon, OP, Base, Ethereum, BSC and Arbitrum\n\n"
-        "Other deposit options: /wallet\n"
+        "deposit address: 0xD29CF7F8b5595df5269b38D69280F91fB9796177\n"
         "PolyCop is gas free, no need to deposit POL\n\n"
         "• /copytrade - The fastest copy speed, limit order copy, TP/SL\n"
         "• /positions - View Positions\n"
